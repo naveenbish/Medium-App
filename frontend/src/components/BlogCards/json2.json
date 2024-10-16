@@ -1,0 +1,212 @@
+{
+  "foryou": [
+    {
+      "id": 1,
+      "name": "Liam Garcia",
+      "community_name": "Developers Lounge",
+      "title": "Introduction to Web Development",
+      "desc": "A beginner's guide to building web applications.",
+      "hands": 190,
+      "comments": 23,
+      "picture_url": "https://example.com/images/liam_garcia.jpg",
+      "date": "Jan 6"
+    },
+    {
+      "id": 2,
+      "name": "Olivia Martinez",
+      "community_name": "Full Stack World",
+      "title": "Understanding Front-End Frameworks",
+      "desc": "An overview of popular front-end frameworks and their uses.",
+      "hands": 245,
+      "comments": 34,
+      "picture_url": "https://example.com/images/olivia_martinez.jpg",
+      "date": "Jan 6"
+    },
+    {
+      "id": 3,
+      "name": "Noah Anderson",
+      "community_name": "Tech Talks",
+      "title": "Back-End Development with Node.js",
+      "desc": "Learn how to develop robust back-end systems using Node.js.",
+      "hands": 303,
+      "comments": 41,
+      "picture_url": "https://example.com/images/noah_anderson.jpg",
+      "date": "Jan 6"
+    },
+    {
+      "id": 4,
+      "name": "Emma Lee",
+      "community_name": "Tech Gurus",
+      "title": "Exploring the Cloud: AWS Basics",
+      "desc": "An introduction to cloud computing with AWS.",
+      "hands": 275,
+      "comments": 37,
+      "picture_url": "https://example.com/images/emma_lee.jpg",
+      "date": "Jan 6"
+    },
+    {
+      "id": 5,
+      "name": "Ethan White",
+      "community_name": "Code Masters",
+      "title": "Version Control with Git and GitHub",
+      "desc": "Master version control and collaboration with Git and GitHub.",
+      "hands": 340,
+      "comments": 48,
+      "picture_url": "https://example.com/images/ethan_white.jpg",
+      "date": "Jan 6"
+    }
+  ],
+  "python": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "community_name": "Tech Enthusiasts",
+      "title": "Python for Data Science",
+      "desc": "Learn how to use Python for data analysis and visualization.",
+      "hands": 154,
+      "comments": 20,
+      "picture_url": "https://example.com/images/alice_johnson.jpg",
+      "date": "Jan 6"
+    },
+    {
+      "id": 2,
+      "name": "Michael Smith",
+      "community_name": "Python Developers",
+      "title": "Building APIs with Flask",
+      "desc": "A guide to creating RESTful APIs using Flask in Python.",
+      "hands": 202,
+      "comments": 15,
+      "picture_url": "https://example.com/images/michael_smith.jpg",
+      "date": "Jan 6"
+    }
+  ],
+  "javascript": [
+    {
+      "id": 1,
+      "name": "Emma Davis",
+      "community_name": "JS World",
+      "title": "JavaScript ES6 Features",
+      "desc": "An introduction to the new features introduced in ES6.",
+      "hands": 187,
+      "comments": 32,
+      "picture_url": "https://example.com/images/emma_davis.jpg",
+      "date": "Jan 6"
+    },
+    {
+      "id": 2,
+      "name": "John Williams",
+      "community_name": "JavaScript Enthusiasts",
+      "title": "Mastering Async JavaScript",
+      "desc": "Learn about asynchronous programming in JavaScript.",
+      "hands": 321,
+      "comments": 45,
+      "picture_url": "https://example.com/images/john_williams.jpg",
+      "date": "Jan 6"
+    }
+  ],
+  "typescript": [
+    {
+      "id": 1,
+      "name": "Sophia Brown",
+      "community_name": "TypeScript Hub",
+      "title": "Getting Started with TypeScript",
+      "desc": "An introductory guide to using TypeScript in your projects.",
+      "hands": 276,
+      "comments": 29,
+      "picture_url": "https://example.com/images/sophia_brown.jpg",
+      "date": "Jan 6"
+    },
+    {
+      "id": 2,
+      "name": "David Wilson",
+      "community_name": "TypeScript Developers",
+      "title": "Advanced TypeScript Patterns",
+      "desc": "Explore advanced patterns and techniques in TypeScript.",
+      "hands": 315,
+      "comments": 38,
+      "picture_url": "https://example.com/images/david_wilson.jpg",
+      "date": "Jan 6"
+    }
+  ],
+  "java": [
+    {
+      "id": 1,
+      "name": "Sophia Brown",
+      "community_name": "TypeScript Hub",
+      "title": "Getting Started with TypeScript",
+      "desc": "An introductory guide to using TypeScript in your projects.",
+      "hands": 276,
+      "comments": 29,
+      "picture_url": "https://example.com/images/sophia_brown.jpg",
+      "date": "Jan 6"
+    },
+    {
+      "id": 2,
+      "name": "David Wilson",
+      "community_name": "TypeScript Developers",
+      "title": "Advanced TypeScript Patterns",
+      "desc": "Explore advanced patterns and techniques in TypeScript.",
+      "hands": 315,
+      "comments": 38,
+      "picture_url": "https://example.com/images/david_wilson.jpg",
+      "date": "Jan 6"
+    }
+  ],
+  "following": [
+    {
+      "id": 1,
+      "name": "Following Garcia",
+      "community_name": "Developers Lounge",
+      "title": "Introduction to Web Development",
+      "desc": "A beginner's guide to building web applications.",
+      "hands": 190,
+      "comments": 23,
+      "picture_url": "https://example.com/images/liam_garcia.jpg",
+      "date": "Jan 6"
+    },
+    {
+      "id": 2,
+      "name": "Olivia Martinez",
+      "community_name": "Full Stack World",
+      "title": "Understanding Front-End Frameworks",
+      "desc": "An overview of popular front-end frameworks and their uses.",
+      "hands": 245,
+      "comments": 34,
+      "picture_url": "https://example.com/images/olivia_martinez.jpg",
+      "date": "Jan 6"
+    },
+    {
+      "id": 3,
+      "name": "Noah Anderson",
+      "community_name": "Tech Talks",
+      "title": "Back-End Development with Node.js",
+      "desc": "Learn how to develop robust back-end systems using Node.js.",
+      "hands": 303,
+      "comments": 41,
+      "picture_url": "https://example.com/images/noah_anderson.jpg",
+      "date": "Jan 6"
+    },
+    {
+      "id": 4,
+      "name": "Emma Lee",
+      "community_name": "Tech Gurus",
+      "title": "Exploring the Cloud: AWS Basics",
+      "desc": "An introduction to cloud computing with AWS.",
+      "hands": 275,
+      "comments": 37,
+      "picture_url": "https://example.com/images/emma_lee.jpg",
+      "date": "Jan 6"
+    },
+    {
+      "id": 5,
+      "name": "Ethan White",
+      "community_name": "Code Masters",
+      "title": "Version Control with Git and GitHub",
+      "desc": "Master version control and collaboration with Git and GitHub.",
+      "hands": 340,
+      "comments": 48,
+      "picture_url": "https://example.com/images/ethan_white.jpg",
+      "date": "Jan 6"
+    }
+  ]
+}

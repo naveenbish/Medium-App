@@ -1,0 +1,18 @@
+.carousel {
+  width: 100%;
+  max-width: 600px;
+  height: 300px;
+  margin: auto;
+}
+
+.carousel-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  background-color: #f0f0f0;
+}
+
+.carousel-dots button {
+  cursor: pointer;
+}

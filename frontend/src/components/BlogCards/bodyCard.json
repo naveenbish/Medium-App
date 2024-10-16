@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "community_name": "Tech Enthusiasts",
+    "title": "How to Build a Simple App",
+    "desc": "A step-by-step guide to building your first mobile app using React Native.",
+    "date": "Apr 29",
+    "hands": 154,
+    "comments": 20,
+    "picture_url": "https://example.com/images/alice_johnson.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Michael Smith",
+    "community_name": "Photographers Hub",
+    "title": "Mastering Landscape Photography",
+    "desc": "Learn the secrets of capturing stunning landscapes with your camera.",
+    "date": "Mar 2",
+    "hands": 202,
+    "comments": 15,
+    "picture_url": "https://example.com/images/michael_smith.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Emma Davis",
+    "community_name": "Writers' Corner",
+    "title": "Writing Engaging Short Stories",
+    "desc": "Tips and techniques for crafting compelling short stories that captivate readers.",
+    "date": "Jan 9",
+    "hands": 187,
+    "comments": 32,
+    "picture_url": "https://example.com/images/emma_davis.jpg"
+  },
+  {
+    "id": 4,
+    "name": "John Williams",
+    "community_name": "Tech Enthusiasts",
+    "title": "Introduction to Machine Learning",
+    "desc": "An introductory course on the basics of machine learning and its applications.",
+    "date": "Oct 6",
+    "hands": 321,
+    "comments": 45,
+    "picture_url": "https://example.com/images/john_williams.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sophia Brown",
+    "community_name": "Photographers Hub",
+    "title": "Portrait Photography Tips",
+    "desc": "Enhance your portrait photography skills with these expert tips and tricks.",
+    "date": "Sept 4",
+    "hands": 276,
+    "comments": 29,
+    "picture_url": "https://example.com/images/sophia_brown.jpg"
+  }
+]
