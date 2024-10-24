@@ -16,15 +16,15 @@ const BlogCards = () => {
   const blogList: string = useSelector((state: RootState) => state.blogList.value)
 
   const handleClick = () => {
-    navigate('/blogs');
+    navigate('/blogs/1');
   };
 
   return (
     <>
-      <div className="p-4 pt-12 cursor-pointer" onClick={handleClick}>
-        {cardData[blogList as keyof DataStructure].map((item: CardData) => (
-          <>
-            <div className="flex gap-2">
+      <div className="pt-12 px-4 sm:px-8 cursor-pointer" onClick={handleClick}>
+        {cardData[blogList as keyof DataStructure].map((item: CardData, index) => (
+          <div key={index}>
+            <div className="flex gap-2" >
               <Avatar className="h-6 w-6">
                 <AvatarImage src="https://github.com/shadcn.png" alt="@shadcn" />
                 <AvatarFallback>CN</AvatarFallback>
@@ -54,7 +54,7 @@ const BlogCards = () => {
               <div className="flex gap-1 items-center"><MessageCircle className="w-4" />5</div>
             </div>
             <hr className="pb-7" />
-          </>
+          </div>
         ))}
       </div>
     </>

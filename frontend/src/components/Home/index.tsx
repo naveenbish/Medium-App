@@ -9,7 +9,7 @@ export default function Home() {
       <div>
         <Header />
         <div className="flex flex-col justify-center items-center">
-          <div className="w-[800px]">
+          <div className="w-full max-w-[1000px]">
             <BlogList />
             <hr />
             <BlogCards />
